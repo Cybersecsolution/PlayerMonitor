@@ -2,7 +2,7 @@
   Players List $${\color{Aquamarine}{Monitoring Script}}$$
 </h1> 
 
-![Monitoring Script](monitoring-script.svg)
+![Monitoring Script]([monitoring-script.svg](https://i.imgur.com/reYhpGy.png))
 
 <p align="center">
   <img src="https://i.imgur.com/mhYVbIu.jpeg" alt="Players List" width="700">

@@ -1,10 +1,8 @@
-<h1 align="center" style="font-size: 130%;">
-  Players List $${\color{Aquamarine}{Monitoring Script}}$$
-</h1> 
-
 <p align="center">
   <img src="https://i.imgur.com/reYhpGy.png)" alt="Players List" width="700">
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://i.imgur.com/mhYVbIu.jpeg" alt="Players List" width="700">
